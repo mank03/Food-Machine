@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620400085 source:c:\users\konnur pc\documents\cpp projects\summativefoodmachine\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
